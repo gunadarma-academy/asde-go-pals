@@ -9,7 +9,7 @@
 | Alvin | person@website.com | [@name](https://github.com/name)
 | Andi Darmawan | andi.lazvegas@gmail.com | [@andilazvegas](https://github.com/andilazvegas)
 | Fakhria Nur Shabrina | ifashabrina@gmail.com | [@ifashabrina](https://github.com/ifashabrina)
-| M. Farhan Mubarak | united.barock@gmail.com | [@name](https://github.com/name)
+| M. Farhan Mubarak | united.barock@gmail.com | [@fhnbarock](https://github.com/fhnbarock)
 
 --------------------------------------------------
 
