@@ -1,4 +1,4 @@
-# [Name Your Project Here]
+# Go-Pals
 
 [Describe your project here]
 
@@ -6,9 +6,10 @@
 
 | Name   | Email              | GitHub |
 |--------|--------------------|--------|
-| Person | person@website.com | [@name](https://github.com/name)
-| Person | person@website.com | [@name](https://github.com/name)
-| Person | person@website.com | [@name](https://github.com/name)
+| Alvin | person@website.com | [@name](https://github.com/name)
+| Andi Darmawan | andi.lazvegas@gmail.com | [@andilazvegas](https://github.com/andilazvegas)
+| Fakhria Nur Shabrina | ifashabrina@gmail.com | [@ifashabrina](https://github.com/ifashabrina)
+| M. Farhan Mubarak | united.barock@gmail.com | [@name](https://github.com/name)
 
 --------------------------------------------------
 
