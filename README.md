@@ -1,6 +1,6 @@
 # Go-Pals
 
-Android location based service to find ATM, gas station, repair shop near by users.
+Android location based service application to find ATM, gas station, repair shop near by users.
 Target user: drivers and riders
 
 ## Team Member
