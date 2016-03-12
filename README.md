@@ -1,12 +1,13 @@
 # Go-Pals
 
-[Describe your project here]
+Android location based service to find ATM, gas station, repair shop near by users.
+Target user: drivers and riders
 
 ## Team Member
 
 | Name   | Email              | GitHub |
 |--------|--------------------|--------|
-| Alvin | person@website.com | [@name](https://github.com/name)
+| Alvin | person@website.com | [@alvinchristian7](https://github.com/alvinchristian7)
 | Andi Darmawan | andi.lazvegas@gmail.com | [@andilazvegas](https://github.com/andilazvegas)
 | Fakhria Nur Shabrina | ifashabrina@gmail.com | [@ifashabrina](https://github.com/ifashabrina)
 | M. Farhan Mubarak | united.barock@gmail.com | [@fhnbarock](https://github.com/fhnbarock)
