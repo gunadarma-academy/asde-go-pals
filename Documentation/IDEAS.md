@@ -11,8 +11,10 @@ Ideas
   + Side Note: In Android Platform
 + Main Functionality:
   + Find ATM, gas stations, and repair shop near by users or view all those public accomodations in Depok. (Driver or Rider)
-  + Manage the database (Input, update, delete data). (Administrator)
+  + Add new location to maps (Driver or Rider)
+  + Manage the database (Input, update, delete data) (Administrator)
+  + Confirm the location that inputted by users (Administrator)
 + Similars/Competitors:
-  + Still don't know
+  + Find Near Me (Desktop - Win 8/10)
 + Completion Time Estimation (ETA):
   + 4 - 6 Weeks
