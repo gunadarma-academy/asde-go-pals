@@ -6,7 +6,7 @@ Ideas
 + App Name:
   + PALS
 + Target User:
-  + User Persona/Definition: Drivers or Riders & Administrator
+  + User Personal/Definition: Drivers or Riders & Administrator
   + Problem Definition: Drivers or riders have difficulty in finding the location of public accommodation such as ATM, gas stations, and repair shop in Depok.
   + Side Note: In Android Platform
 + Main Functionality:
