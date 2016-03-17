@@ -1,0 +1,60 @@
+# General .gitignore
+# https://github.com/github/gitignore
+
+############
+# Git Common
+############
+
+# SVN
+.svn/
+
+# Linux
+# .*
+!.gitignore
+*~
+*un~
+*swp
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+*.dll
+
+# Archives
+*.7z
+*.jar
+*.rar
+*.zip
+*.gz
+*.bzip
+*.bz2
+*.xz
+*.lzma
+## packing-only formats
+*.iso
+*.tar
+## package management formats
+*.dmg
+*.xpi
+*.gem
+*.egg
+*.deb
+*.rpm
+
+# Eclipse
+*.pydevproject
+.project
+*.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
