@@ -3,7 +3,12 @@ Requirements
 
 ### Apps Menu and Feature:
 + Find ATM, gas station, repair shop near by user (in Depok).
-  + near by radius: ?
+  + near by radius: 500 meters to 1 km.
+  + ATM: BCA, Mandiri, BNI, BRI, DKI
+  + Gas Station: Pertamina and Shell
+  + Repair shop:
+	+ Car (Toyota, Honda, Daihatsu, Suzuki)
+	+ Motorcycle (Honda, Yamaha, Suzuki, Kawasaki)
 + View all ATM, gas station, repair shop in Depok.
 + Add new location to maps (require to confirmed by administrator before it can show in maps).
 + Help Menu
@@ -35,11 +40,11 @@ Requirements
   + Inkscape
   + Adobe Photoshop
 + Miscellaneous:
-  + Web hosting (000webhost / idhostinger) (?)  
+  + Web hosting (000webhost)  
   
 
 ### Requirement to Run the Apps:
-+ Android OS 4.1 (Jelly Bean) to 5.1 (Lollipop) (?)
++ Android OS 4.1 (Jelly Bean) to 6.0 (Marshmallow) (?)
 + Internet Connection
 + Location service enabled (GPS or wifi)
 
