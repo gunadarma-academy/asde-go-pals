@@ -7,7 +7,7 @@ Target user: drivers and riders
 
 | Name   | Email              | GitHub |
 |--------|--------------------|--------|
-| Alvin | person@website.com | [@alvinchristian7](https://github.com/alvinchristian7)
+| Alvin | alvin.christian7@yahoo.com | [@alvinchristian7](https://github.com/alvinchristian7)
 | Andi Darmawan | andi.lazvegas@gmail.com | [@andilazvegas](https://github.com/andilazvegas)
 | Fakhria Nur Shabrina | ifashabrina@gmail.com | [@ifashabrina](https://github.com/ifashabrina)
 | M. Farhan Mubarak | united.barock@gmail.com | [@fhnbarock](https://github.com/fhnbarock)
