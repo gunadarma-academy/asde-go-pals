@@ -12,7 +12,9 @@ System Definition
 
 ## Where the application used:
 + While driving in Depok.
+
 ## How :
 + Incremental model used as project management to develop the system. 
+
 ## When :
 + Estimation: 4 - 6 weeks, start second week of March to third week of April. 
