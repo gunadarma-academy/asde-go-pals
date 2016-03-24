@@ -2,7 +2,7 @@
 require "../config.php";
 session_start();
 if(!isset($_SESSION['admin'])){
-	echo "<meta http-equiv='refresh' content='0; url=http://localhost/gopals/admin/index.php'>";
+	echo "<meta http-equiv='refresh' content='0; url=http://gopals.netau.net/admin/index.php'>";
 }else{
 ?>
 
@@ -66,7 +66,7 @@ if(!isset($_SESSION['admin'])){
 									echo '<script language="javascript">';
 									echo 'alert("Gas Station Data Added")';
 									echo '</script>';
-								?> <meta http-equiv="refresh" content="0; url=http://localhost/gopals/admin/spbu/spbu_data.php">
+								?> <meta http-equiv="refresh" content="0; url=http://gopals.netau.net/admin/spbu/spbu_data.php">
 								<?php
 								}
 							}

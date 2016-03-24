@@ -2,7 +2,7 @@
 require "../config.php";
 session_start();
 if(!isset($_SESSION['admin'])){
-	echo "<meta http-equiv='refresh' content='0; url=http://localhost/gopals/admin/index.php'>";
+	echo "<meta http-equiv='refresh' content='0; url=http://gopals.netau.net/admin/index.php'>";
 }else{
 	$idbengkel = $_GET['id'];
 	$query = "DELETE FROM bengkel WHERE id_bengkel='$idbengkel'";

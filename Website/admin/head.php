@@ -11,12 +11,12 @@
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	
     <!-- Custom CSS -->
-    <link href="http://localhost/gopals/admin/css/simple-sidebar.css" rel="stylesheet">
+    <link href="http://gopals.netau.net/admin/css/simple-sidebar.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="http://localhost/gopals/admin/css/dataTables.bootstrap.css">
 	
 	<script type="text/javascript" language="javascript" src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script type="text/javascript" language="javascript" src="http://localhost/gopals/admin/js/jquery.dataTables.js"></script>
-	<script type="text/javascript" language="javascript" src="http://localhost/gopals/admin/js/dataTables.bootstrap.js"></script>
+	<script type="text/javascript" language="javascript" src="http://gopals.netau.net/admin/js/jquery.dataTables.js"></script>
+	<script type="text/javascript" language="javascript" src="http://gopals.netau.net/admin/js/dataTables.bootstrap.js"></script>
 	
 	<link href='http://fonts.googleapis.com/css?family=Poppins:400,600,700,500,300' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,900,700italic,700,400italic,500,500italic,300,100italic,100,300italic' rel='stylesheet' type='text/css'>
