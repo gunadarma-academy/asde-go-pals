@@ -43,6 +43,8 @@ if(!isset($_SESSION['admin'])){
 									 <option value='Bank BCA'>Bank BCA</option>
 									 <option value='Bank Mandiri'>Bank Mandiri</option>
 									 <option value='Bank BNI'>Bank BNI</option>
+									 <option value='Bank BRI'>Bank BRI</option>
+									 <option value='Bank DKI'>Bank DKI</option>
 								</select>
 							</div>
 							<input type="hidden" name="selected_bank" id="selected_bank" value="<?php echo $selected_bank?>">
