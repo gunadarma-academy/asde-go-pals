@@ -1,0 +1,3 @@
+[submodule "Testing"]
+	path = Testing
+	url = git://github.com/gunadarma-academy/asde-go-pals-test.git
