@@ -36,6 +36,7 @@ if(!isset($_SESSION['admin'])){
 									 <option value='Bank Mandiri'>Bank Mandiri</option>
 									 <option value='Bank BNI'>Bank BNI</option>
 									 <option value='Bank BRI'>Bank BRI</option>
+									 <option value='Bank CIMB Niaga'>Bank CIMB Niaga</option>
 									 <option value='Bank DKI'>Bank DKI</option>
 									 <option value='Bank Bukopin'>Bank Bukopin</option>
 									 <option value='Bank Danamon'>Bank Danamon</option>
