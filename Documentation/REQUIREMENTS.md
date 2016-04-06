@@ -2,7 +2,7 @@ Requirements
 ============
 
 ### Object Location (In Depok):
-+ ATM: BCA, Mandiri, BNI, BRI, DKI
++ ATM: BCA, Mandiri, BNI, BRI, DKI, Bukopin, Danamon, Mega, OCBC NISP, Panin, Permata
 + Gas Station: Pertamina and Shell
 + Repair shop:
 		+ Car (Toyota, Honda, Daihatsu, Suzuki)
