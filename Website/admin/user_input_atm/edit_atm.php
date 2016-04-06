@@ -40,9 +40,18 @@ if(!isset($_SESSION['admin'])){
 							<div class="form-group">
 								<label>Bank Name:</label>
 								<select class="form-control" id="bank_name" name="bank_name" onchange="document.getElementById('selected_bank').value=this.options[this.selectedIndex].value">
+									 <option value=''>Select Bank</option>
 									 <option value='Bank BCA'>Bank BCA</option>
 									 <option value='Bank Mandiri'>Bank Mandiri</option>
 									 <option value='Bank BNI'>Bank BNI</option>
+									 <option value='Bank BRI'>Bank BRI</option>
+									 <option value='Bank DKI'>Bank DKI</option>
+									 <option value='Bank Bukopin'>Bank Bukopin</option>
+									 <option value='Bank Danamon'>Bank Danamon</option>
+									 <option value='Bank Mega'>Bank Mega</option>
+									 <option value='Bank OCBC NISP'>Bank OCBC NISP</option>
+									 <option value='Bank Panin'>Bank Panin</option>
+									 <option value='Bank Permata'>Bank Permata</option>
 								</select>
 							</div>
 							<input type="hidden" name="selected_bank" id="selected_bank" value="<?php echo $selected_bank?>">
