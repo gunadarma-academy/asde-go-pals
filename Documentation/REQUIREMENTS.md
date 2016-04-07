@@ -11,7 +11,7 @@ Requirements
 		
 ### Apps Menu and Feature:
 + Find Location By Category (ATM, Gas Station, and Repair Shop).
-	+ near by radius: 500 meters to 1 km.
+	+ near by radius: 300 meters to 1.5 km with increment 300 meters.	
 	+ view all location for a category.
 	+ view location information.
 	+ get direction from current location to place location.
