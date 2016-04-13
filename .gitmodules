@@ -1,3 +1,6 @@
 [submodule "Testing"]
 	path = Testing
 	url = git://github.com/gunadarma-academy/asde-go-pals-test.git
+[submodule "Website"]
+	path = Website
+	url = git://github.com/gunadarma-academy/asde-go-pals-website.git
