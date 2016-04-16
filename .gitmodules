@@ -4,3 +4,6 @@
 [submodule "Website"]
 	path = Website
 	url = git://github.com/gunadarma-academy/asde-go-pals-website.git
+[submodule "App"]
+	path = App
+	url = git://github.com/gunadarma-academy/asde-go-pals-app.git
