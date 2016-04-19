@@ -3,7 +3,8 @@
 [![Join the chat at https://gitter.im/gunadarma-academy/asde-go-pals](https://badges.gitter.im/gunadarma-academy/asde-go-pals.svg)](https://gitter.im/gunadarma-academy/asde-go-pals?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Android location based service application to find ATM, gas station, repair shop near by users.
-Target user: drivers and riders
+Target user: drivers and riders.
+Scope of the application: Depok and surrounding area.
 
 ## Team Member
 
