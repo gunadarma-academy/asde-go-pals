@@ -23,6 +23,7 @@ Scope of the application: Depok and surrounding area.
 
 (who, why, how, what, where, when)
 
++ Project Time Table and Burndown Chart [.pdf](https://github.com/gunadarma-academy/asde-go-pals/blob/master/Documentation/Time_Table_and_Burndown_Chart.pdf)
 + Requirement [.md](https://github.com/gunadarma-academy/asde-go-pals/blob/master/Documentation/REQUIREMENTS.md)
 + System Definition [.md](https://github.com/gunadarma-academy/asde-go-pals/blob/master/Documentation/SYSTEM%20DEFINITION.md)
 + PALS System Requirement Specification [.pdf](https://github.com/gunadarma-academy/asde-go-pals/blob/master/Documentation/Software_Requirement_Specification.pdf)
@@ -30,7 +31,6 @@ Scope of the application: Depok and surrounding area.
 + [Navigation Structure](https://github.com/gunadarma-academy/asde-go-pals/tree/master/Documentation/Navigation%20Structure)
 + [Wireframe](https://github.com/gunadarma-academy/asde-go-pals/tree/master/Documentation/Design/Wireframe)
 + [Mockup](https://github.com/gunadarma-academy/asde-go-pals/tree/master/Documentation/Design/Mockup)
-
 
 --------------------------------------------------
 
@@ -40,7 +40,6 @@ Scope of the application: Depok and surrounding area.
 
 + [PALS Administrator Website Source Code](https://github.com/gunadarma-academy/asde-go-pals-website/tree/44dcfd43e1ff3b872d61b0ea9257eb2c2358cfd4)
 + [PALS Android Application Source Code](https://github.com/gunadarma-academy/asde-go-pals-app/tree/7c03672764cc1a7a3f1fdfd7697d2d81bc31e088)
-+ User Manual [.pdf](https://github.com/)
 + Testing Documentation:
 	+ Master Test Plan [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/ace27bf285fce14c9d563a13569242757692ac11/Master_Test_Plan.docx)/[.pdf](https://github.com/gunadarma-academy/asde-go-pals-test/blob/ace27bf285fce14c9d563a13569242757692ac11/Master_Test_Plan.pdf)
 	+ Scenario Test
@@ -49,7 +48,8 @@ Scope of the application: Depok and surrounding area.
 		+ Integration Testing
 		+ System Testing
 		+ Compatibility Testing
-		
++ User Manual [.pdf](https://github.com/)
+
 --------------------------------------------------
 
 ## General Notes
