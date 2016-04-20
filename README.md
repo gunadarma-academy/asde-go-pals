@@ -48,7 +48,7 @@ Scope of the application: Depok and surrounding area.
 		+ Integration Testing
 		+ System Testing
 		+ Compatibility Testing
-+ User Manual [.pdf](https://github.com/)
++ User Manual [.pdf](https://github.com/gunadarma-academy/asde-go-pals/blob/master/Documentation/User_Manual.pdf)
 
 --------------------------------------------------
 
