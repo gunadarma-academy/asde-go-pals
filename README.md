@@ -45,8 +45,8 @@ Scope of the application: Depok and surrounding area.
 	+ Scenario Test
 		+ Unit Testing - Black Box Testing [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/ace27bf285fce14c9d563a13569242757692ac11/Scenario-Test/Black_Box_Testing.docx)
 		+ Unit Testing - White Box Testing
-		+ Integration Testing
-		+ System Testing
+		+ Integration Testing [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/9eb253688f395cf45364b4d252f0aad9e3f29714/Scenario-Test/Integration_Testing.docx)
+		+ System Testing [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/9eb253688f395cf45364b4d252f0aad9e3f29714/Scenario-Test/System_Testing.docx)
 		+ Compatibility Testing
 + User Manual [.pdf](https://github.com/gunadarma-academy/asde-go-pals/blob/master/Documentation/User_Manual.pdf)
 
