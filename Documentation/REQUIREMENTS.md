@@ -16,7 +16,7 @@ Requirements
 	+ view location information.
 	+ get direction from current location to place location.
 	+ make a phone call (just for repair shop).
-+ User Input Location required to confirmed by administrator before it can show in maps).
++ User Input Location (required to confirmed by administrator before it can show in maps).
 + Help Menu
 + About Menu
   
@@ -26,6 +26,7 @@ Requirements
 	+ username and password already defined so it not necessary to register.
 + View, Input, Update, Delete Data (ATM, gas station, repair shop).
 + Edit, Confirm and Reject the data that inputed by users.
++ Logout.
 
 
 ### Softwares and Tools used to Develop:
