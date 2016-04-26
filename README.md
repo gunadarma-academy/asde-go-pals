@@ -39,14 +39,14 @@ Scope of the application: Depok and surrounding area.
 [How to develop, build, and use it.]
 
 + [PALS Administrator Website Source Code](https://github.com/gunadarma-academy/asde-go-pals-website/tree/44dcfd43e1ff3b872d61b0ea9257eb2c2358cfd4)
-+ [PALS Android Application Source Code](https://github.com/gunadarma-academy/asde-go-pals-app/tree/7c03672764cc1a7a3f1fdfd7697d2d81bc31e088)
++ [PALS Android Application Source Code](https://github.com/gunadarma-academy/asde-go-pals-app/tree/38c4ebd68a631c05385e5f925c99bb0d48532606)
 + Testing Documentation:
-	+ Master Test Plan [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/ace27bf285fce14c9d563a13569242757692ac11/Master_Test_Plan.docx)/[.pdf](https://github.com/gunadarma-academy/asde-go-pals-test/blob/ace27bf285fce14c9d563a13569242757692ac11/Master_Test_Plan.pdf)
+	+ Master Test Plan [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/07072de50e0e044aa46ed46ab7a9449aa32ed366/Master_Test_Plan.docx)/[.pdf](https://github.com/gunadarma-academy/asde-go-pals-test/blob/07072de50e0e044aa46ed46ab7a9449aa32ed366/Master_Test_Plan.pdf)
 	+ Scenario Test
-		+ Unit Testing - Black Box Testing [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/ace27bf285fce14c9d563a13569242757692ac11/Scenario-Test/Black_Box_Testing.docx)
-		+ Unit Testing - White Box Testing
-		+ Integration Testing [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/9eb253688f395cf45364b4d252f0aad9e3f29714/Scenario-Test/Integration_Testing.docx)
-		+ System Testing [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/9eb253688f395cf45364b4d252f0aad9e3f29714/Scenario-Test/System_Testing.docx)
+		+ Unit Testing - Black Box Testing [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/07072de50e0e044aa46ed46ab7a9449aa32ed366/Scenario-Test/Black_Box_Testing.docx)
+		+ Unit Testing - White Box Testing [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/07072de50e0e044aa46ed46ab7a9449aa32ed366/Scenario-Test/White_Box_Testing.docx)
+		+ Integration Testing [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/07072de50e0e044aa46ed46ab7a9449aa32ed366/Scenario-Test/Integration_Testing.docx)
+		+ System Testing [.docx](https://github.com/gunadarma-academy/asde-go-pals-test/blob/07072de50e0e044aa46ed46ab7a9449aa32ed366/Scenario-Test/System_Testing.docx)
 		+ Compatibility Testing
 + User Manual [.pdf](https://github.com/gunadarma-academy/asde-go-pals/blob/master/Documentation/User_Manual.pdf)
 
